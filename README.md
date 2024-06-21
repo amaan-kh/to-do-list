@@ -1,2 +1,2 @@
 # to-do-list
-made a simple to do list while learning javascript
+a simple to do list that stores list Items in browser's local storage made using vanilla javascript
